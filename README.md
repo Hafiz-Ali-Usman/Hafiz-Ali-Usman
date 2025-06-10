@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aliusman.harri@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Hafiz-Ali-Usman/Hafiz-Ali-Usman/blob/main/AliUsman%20r.pdf](https://github.com/Hafiz-Ali-Usman/Hafiz-Ali-Usman/blob/main/AliUsman%20r.pdf)
+- 📄 Know about my experiences [https://github.com/Hafiz-Ali-Usman/Hafiz-Ali-Usman/blob/main/AliUsman%20r.pdf](https://ali-usman.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
