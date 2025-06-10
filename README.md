@@ -1,4 +1,4 @@
-![logo](https://github.com/Hafiz-Ali-Usman/Hafiz-Ali-Usman/blob/main/Blue%20and%20Black%20Simple%20Coming%20Soon%20Banner.png)
+![logo](https://github.com/Hafiz-Ali-Usman/Hafiz-Ali-Usman/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ali Usman</h1>
 <h3 align="center">A passionate Software Engineer and ML Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
