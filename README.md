@@ -1,13 +1,13 @@
 ![logo](https://github.com/Hafiz-Ali-Usman/Hafiz-Ali-Usman/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ali Usman</h1>
-<h3 align="center">A passionate Software Engineer and ML Engineer</h3>
+<h3 align="center">Fresh Software Engineering graduate, skilled in Frontend Development and Machine Learning Engineering.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafiz-ali-usman&label=Profile%20views&color=0e75b6&style=flat" alt="hafiz-ali-usman" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hafiz-Ali-Usman](https://github.com/Hafiz-Ali-Usman)
 
-- 📫 How to reach me **a57572313@gmail.com**
+- 📫 How to reach me **aliusman.harri@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Hafiz-Ali-Usman/Hafiz-Ali-Usman/blob/main/AliUsman%20r.pdf](https://github.com/Hafiz-Ali-Usman/Hafiz-Ali-Usman/blob/main/AliUsman%20r.pdf)
 
